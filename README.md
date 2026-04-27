@@ -91,4 +91,5 @@ mvn verify
 | `ProductoRepositoryIntegrationTest` | Integración ORM | JUnit 5 + Hibernate + H2 |
 
 ---
-
+## Integrante
+Ramos Escobar Crist Antony
